@@ -5,8 +5,9 @@ My bots are supporting Trump.
 # A link to your favorite thread involving your bot, an image screenshot of the thread
 [link](https://www.reddit.com/r/cs40_2022fall/comments/z6a9y1/comment/iy0f71n/?utm_source=share&utm_medium=web2x&context=3)
 ![image](screenshot.png)
+----------
 I just feel a this type of talk is completely nonsense. But it's really ironic that it is happening in the real world. 
-
+----------
 
 
 
