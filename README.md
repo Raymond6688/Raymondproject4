@@ -30,4 +30,4 @@ NOTE: the number valid_comments will be used to determine your grade
 2. I created a new file bot_submissions.py to generate at least 200 new submissions. (I'm pretty sure I actually created 300+) (+2)
 3. My bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. (+2)
 4. I upvote any comment or submission that mentions Trump. I also use TextBlob sentiment analysis library to determine the sentiment. (+4)
-Total 31
+5. Total 31
