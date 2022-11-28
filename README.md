@@ -23,11 +23,11 @@ Total 33
 len(comments)= 1000
 len(top_level_comments)= 83
 len(replies)= 917
-len(valid_top_level_comments)= 80
+len(valid_top_level_comments)= 81
 len(not_self_replies)= 910
-len(valid_replies)= 830
+len(valid_replies)= 831
 ========================================
-valid_comments= 910
+valid_comments= 912
 ========================================
 NOTE: the number valid_comments will be used to determine your grade
 ```
