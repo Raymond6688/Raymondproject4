@@ -6,16 +6,25 @@ import datetime
 # FIXME:
 # copy your generate_comment function from the madlibs assignment here
 
-madlibs = ["[Trump] is [GREAT].",  "[WE] [LOVE] him!!!","[WE] [HOPE] [Trump] comes back [LATER]",]
+madlibs = ["[Trump] is [GREAT].",  "[WE] [LOVE] him!!!","[WE] [HOPE] [Trump] comes back [LATER]",
+"[Trump] [WILL] make America [GREAT] again.", "[Trump] [WILL] make America [WEALTHY] again.",
+"[Trump] [put] America first.", "it is time to make this [a government] of the [world] has never seen before.",
+]
 
 replacements = {
     'Trump' : ['Trump','TRUMP'],
     'GREAT' : ['great', 'magnificent', 'good', 'wonderful'],
     'WE' : ['We','I','We all'],
+    'WEALTHY' : ['wealthy','rich','powerful'],
+    'WILL' : ['will','would'],
     'LOVE'  : ['enjoy', 'like'],
     'HOPE'  : ['hope', 'wish','expect'],
     'LATER'  : ['later', 'in the future'],
-    }
+    'put' : ['put', 'always think'],
+    'world' : ['world', 'WORLD'],
+    'a government' : ['government', 'state'], }
+
+
 def generate_comment():
     madlib = random.choice(madlibs)
     for replacement in replacements.keys():
