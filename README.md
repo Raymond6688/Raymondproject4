@@ -26,7 +26,7 @@ NOTE: the number valid_comments will be used to determine your grade
 ```
 
 # Explains what you believe your score should be. 
-1. I completed all the required tasks, with more than 900 valid comments. (+25)
+1. I completed all the required tasks, with more than 1000 valid comments. (+25)
 2. I created a new file bot_submissions.py to generate at least 200 new submissions. (I'm pretty sure I actually created 300+) (+2)
 3. My bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. (+2)
 4. I upvote any comment or submission that mentions Trump. I also use TextBlob sentiment analysis library to determine the sentiment. (+4)
