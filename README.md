@@ -1,4 +1,4 @@
-# politician my bot is supporting 
+# Politician my bot is supporting 
 My bots are supporting Trump.
 
 
